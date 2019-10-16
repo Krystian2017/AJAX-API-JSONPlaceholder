@@ -1,13 +1,13 @@
 {
   "main.css": "/AJAX-API-JSONPlaceholder/static/css/main.1fc6a18f.chunk.css",
-  "main.js": "/AJAX-API-JSONPlaceholder/static/js/main.d28ff515.chunk.js",
-  "main.js.map": "/AJAX-API-JSONPlaceholder/static/js/main.d28ff515.chunk.js.map",
+  "main.js": "/AJAX-API-JSONPlaceholder/static/js/main.4a0d9bfb.chunk.js",
+  "main.js.map": "/AJAX-API-JSONPlaceholder/static/js/main.4a0d9bfb.chunk.js.map",
   "static/js/1.2eb1efbf.chunk.js": "/AJAX-API-JSONPlaceholder/static/js/1.2eb1efbf.chunk.js",
   "static/js/1.2eb1efbf.chunk.js.map": "/AJAX-API-JSONPlaceholder/static/js/1.2eb1efbf.chunk.js.map",
   "runtime~main.js": "/AJAX-API-JSONPlaceholder/static/js/runtime~main.cd6f99c4.js",
   "runtime~main.js.map": "/AJAX-API-JSONPlaceholder/static/js/runtime~main.cd6f99c4.js.map",
   "static/css/main.1fc6a18f.chunk.css.map": "/AJAX-API-JSONPlaceholder/static/css/main.1fc6a18f.chunk.css.map",
   "index.html": "/AJAX-API-JSONPlaceholder/index.html",
-  "precache-manifest.a87454ea7468f6a1352613bf73e1d83c.js": "/AJAX-API-JSONPlaceholder/precache-manifest.a87454ea7468f6a1352613bf73e1d83c.js",
+  "precache-manifest.5e8e897a514fd493b19499f7b88c2df7.js": "/AJAX-API-JSONPlaceholder/precache-manifest.5e8e897a514fd493b19499f7b88c2df7.js",
   "service-worker.js": "/AJAX-API-JSONPlaceholder/service-worker.js"
 }

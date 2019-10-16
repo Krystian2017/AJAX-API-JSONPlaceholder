@@ -75,10 +75,10 @@ class App extends Component {
             <a className="App-link" href="https://jsonplaceholder.typicode.com">
               JSONPlaceholder
             </a>
-            . It is simply app and you can find the code on{" "}
+            . You can find the code on{" "}
             <a
               className="App-link"
-              href="https://github.com/Krystian2017/AJAX-REST-API-JSONPlaceholder"
+              href="https://github.com/Krystian2017/AJAX-API-JSONPlaceholder"
             >
               my GitHub account.
             </a>
